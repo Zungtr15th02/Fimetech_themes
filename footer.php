@@ -82,7 +82,7 @@
         new WOW().init();
        </script>
        <script>
-        var bar = new ProgressBar.Line(liness, {
+        var bar = new ProgressBar.Line(liness, { 
          strokeWidth: 4,
          easing: 'easeInOut',
          duration: 1000,  
